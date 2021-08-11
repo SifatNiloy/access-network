@@ -1,0 +1,36 @@
+.top-section{
+    background-color: rgb(196, 196, 196);
+    padding-bottom: 50px;
+}
+
+.flexible-container{
+    display: flex;
+}
+.big-font{
+    font-size: 50px;
+}
+
+.half-width{
+    width: 50%;
+    margin-left: 1%; 
+    
+}
+#top-left{
+    margin-top: 50px;
+}
+#second-section{
+    margin-top: 100px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+#second-section-right{
+    margin-top: 150px;
+    margin-right: 50px;
+}
+.third-section{
+    text-align: center;
+}
+.third-section img{
+    
+    width: 50%;
+}
