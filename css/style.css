@@ -1,6 +1,6 @@
 .background-light{
     background-color: rgb(235, 235, 235);
-    border-radius: 10px;
+    border-radius: 10px;   
 }
 .second-section img{
     margin-left: auto;
@@ -8,8 +8,18 @@
 }
 .fas{
     color: #00c955;
-    padding-right: 2%;
+    padding-right: 3%;
 }
 .ticks h5{
-    padding-top: 3%;
+    padding-top: 4%;
+}
+.server-links a{
+    text-decoration: none;
+}
+footer{
+    background-color:#0275d8;
+    height:40px;
+}
+footer small{
+    align-items: center;
 }
