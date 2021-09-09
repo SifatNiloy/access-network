@@ -1,36 +1,15 @@
-.top-section{
-    background-color: rgb(196, 196, 196);
-    padding-bottom: 50px;
+.background-light{
+    background-color: rgb(235, 235, 235);
+    border-radius: 10px;
 }
-
-.flexible-container{
-    display: flex;
+.second-section img{
+    margin-left: auto;
+    margin-right: auto;
 }
-.big-font{
-    font-size: 50px;
+.fas{
+    color: #00c955;
+    padding-right: 2%;
 }
-
-.half-width{
-    width: 50%;
-    margin-left: 1%; 
-    
-}
-#top-left{
-    margin-top: 50px;
-}
-#second-section{
-    margin-top: 100px;
-    text-align: center;
-    margin-bottom: 50px;
-}
-#second-section-right{
-    margin-top: 150px;
-    margin-right: 50px;
-}
-.third-section{
-    text-align: center;
-}
-.third-section img{
-    
-    width: 50%;
+.ticks h5{
+    padding-top: 3%;
 }
